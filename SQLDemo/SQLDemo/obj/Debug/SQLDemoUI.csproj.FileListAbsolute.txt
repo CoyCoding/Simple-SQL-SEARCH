@@ -1,0 +1,13 @@
+C:\Users\DickButt\source\repos\SQLDemo\SQLDemo\bin\Debug\SQLDemo.exe.config
+C:\Users\DickButt\source\repos\SQLDemo\SQLDemo\bin\Debug\SQLDemo.exe
+C:\Users\DickButt\source\repos\SQLDemo\SQLDemo\bin\Debug\SQLDemo.pdb
+C:\Users\DickButt\source\repos\SQLDemo\SQLDemo\obj\Debug\SQLDemoUI.csprojAssemblyReference.cache
+C:\Users\DickButt\source\repos\SQLDemo\SQLDemo\obj\Debug\SQLDemo.Properties.Resources.resources
+C:\Users\DickButt\source\repos\SQLDemo\SQLDemo\obj\Debug\SQLDemo.SQLDemoUI.resources
+C:\Users\DickButt\source\repos\SQLDemo\SQLDemo\obj\Debug\SQLDemoUI.csproj.GenerateResource.cache
+C:\Users\DickButt\source\repos\SQLDemo\SQLDemo\obj\Debug\SQLDemoUI.csproj.CoreCompileInputs.cache
+C:\Users\DickButt\source\repos\SQLDemo\SQLDemo\obj\Debug\SQLDemo.exe
+C:\Users\DickButt\source\repos\SQLDemo\SQLDemo\obj\Debug\SQLDemo.pdb
+C:\Users\DickButt\source\repos\SQLDemo\SQLDemo\bin\Debug\Dapper.dll
+C:\Users\DickButt\source\repos\SQLDemo\SQLDemo\bin\Debug\Dapper.xml
+C:\Users\DickButt\source\repos\SQLDemo\SQLDemo\obj\Debug\SQLDemoUI.csproj.CopyComplete
